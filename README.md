@@ -1,4 +1,4 @@
-# Research & Project approval (Part 1)
+# Research & Project approval
 
 This Project is useful for comparing prices in each market to find
 the lowest price and fight rising prices.
